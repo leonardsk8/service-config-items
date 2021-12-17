@@ -1,0 +1,7 @@
+server:
+  port: 8005
+configuration:
+  text: Configuring Default Enviroment 
+  autor:
+    name: Leonardo
+    email: leonard-sk8@hotmail.com

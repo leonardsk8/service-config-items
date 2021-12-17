@@ -1,0 +1,7 @@
+server:
+  port: 8005
+configuration:
+  text: Configuring Development Enviroment 
+  autor:
+    name: Leonardo Dev
+    email: leonard-sk8Dev@hotmail.com

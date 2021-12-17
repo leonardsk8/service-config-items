@@ -1,0 +1,7 @@
+server:
+  port: 8007
+configuration:
+  text: Configuring Production Enviroment 
+  autor:
+    name: Leonardo prod
+    email: leonard-sk8Prod@hotmail.com
